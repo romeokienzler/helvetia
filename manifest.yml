@@ -1,7 +1,0 @@
----
-applications:
-- name: cognitive-iot
-  host: ognitive-iot
-  memory: 512M
-  instances: 1
-  disk_quota: 1024M
